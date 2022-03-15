@@ -3,7 +3,7 @@ Hi, I'm @Milo46 👋
 - 🌱 I’m currently learning NodeJS and TypeScript.
 - 📫 How to reach me, what?
 
-Does somebody really care?
+But does somebody really care?
 
 <!---
 Milo46/Milo46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
