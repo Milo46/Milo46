@@ -1,5 +1,5 @@
 Hi, I'm @Milo46 👋
-- 👀 I'm interested in C++ and strongly prefer static typed programming languages.
+- 👀 I'm interested in C++ and strongly prefer statically-typed programming languages.
 - 🌱 I’m currently learning NodeJS and TypeScript.
 - 📫 How to reach me, what?
 
