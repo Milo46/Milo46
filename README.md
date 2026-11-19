@@ -5,7 +5,7 @@ I build backend systems and self-hosted infrastructure,
 plus software that takes the tedious work out of running a busy bar.
 
 **House classics** (production experience): AWS · Terraform · Docker · Python \
-**Off-menu** (side projects): Rust · C++ · TypeScript \
+**Off-menu** (side projects): Rust · C++ · TypeScript
 
 #### 🍸 Signature serves
 - **[Crab Pot](https://github.com/Milo46/crab-pot)**: log ingestion service that validates every entry against a JSON Schema before storing it *(Rust/Axum, PostgreSQL, WebSockets, Docker)*
